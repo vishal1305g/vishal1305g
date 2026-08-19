@@ -25,16 +25,17 @@ I'm a passionate mechanical engineering student exploring the intersection of de
 - Website Creation
 
  📫 How to reach me
-- Email: [vishalathilakshmi@gmail.com](mailto:vishalathilakshmi@gmail.com)
--LinkedIn:[linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishal-g-53952a365/)
--Leetcode:[leetcode.com/in/yourprofile](https://leetcode.com/u/vishal130521/)
-Codeforces:[codeforces.com/in/yourprofile](https://codeforces.com/profile/vishal1305)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalathilakshmi@gmail.com)
+
+
 ---
 
 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal1305g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-g-53952a365/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vishal1305g)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalathilakshmi@gmail.com)
+-Leetcode:[leetcode.com/in/yourprofile](https://leetcode.com/u/vishal130521/)
+Codeforces:[codeforces.com/in/yourprofile](https://codeforces.com/profile/vishal1305)
+
 
 ---
 
