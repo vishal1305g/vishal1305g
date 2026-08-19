@@ -33,8 +33,12 @@ I'm a passionate mechanical engineering student exploring the intersection of de
 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-g-53952a365/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vishal1305g)
--Leetcode:[leetcode.com/in/yourprofile](https://leetcode.com/u/vishal130521/)
-Codeforces:[codeforces.com/in/yourprofile](https://codeforces.com/profile/vishal1305)
+
+Coding Profile:
+1)LEETCODE:
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>](https://leetcode.com/vishal130521/)
+2)CODEFORCES:
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" width="40" height="40"/>](https://codeforces.com/profile/vishal1305)
 
 
 ---
