@@ -2,7 +2,7 @@
 
  Mechanical Engineering Student | Web Developer | CAD Enthusiast
 
-I'm a passionate mechanical engineering student exploring the intersection of design and web development. I enjoy creating dynamic websites and designing CAD diagrams to bring ideas to life. Always eager to learn new technologies and collaborate on innovative projects.
+I'm a passionate mechanical engineering student exploring the  design and web development. I enjoy creating dynamic websites and designing CAD diagrams to bring ideas to life. Always eager to learn new technologies and collaborate on innovative projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishal1305g&color=blue)
 
